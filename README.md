@@ -1,0 +1,1 @@
+"This is a PHP/Android based application that allows small groups to handle peer-to-peer capital loaning. It's not maintained anymore.I just uploaded it so that others can get a feel of how to develop android applications that interact with backends." 

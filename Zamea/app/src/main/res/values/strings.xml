@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ZAMEA Savings Club</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Phone Number</string>
+    <string name="prompt_password">ZAMEA ID number</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This phone is invalid</string>
+    <string name="error_invalid_password">Provide a valid ID Number</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_apply">Loan Application</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_details">Loan Details</string>
+    <string-array name="types">
+        <item>Advance Loan</item>
+        <item>Mid Term</item>
+    </string-array>
+    <string name="title_activity_history">Loan History</string>
+    <string name="title_activity_product_buyer">Product Buyers</string>
+</resources>
